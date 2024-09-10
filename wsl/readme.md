@@ -20,3 +20,7 @@ brew install node@20
 https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-vscode
 
 # Install Git
+Debian/Ubuntu
+For the latest stable version for your release of Debian/Ubuntu
+
+apt-get install git
