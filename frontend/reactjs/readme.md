@@ -1,3 +1,9 @@
+
+### Table of Contents
+- [Difference Between State and Props in React](#difference-between-state-and-props-in-react)
+
+
+
 ### Difference Between State and Props in React
 
 In React, `state` and `props` are two important concepts used for managing data and rendering components. Here are the key differences:
